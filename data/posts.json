@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "date": "2025-08-01",
+    "author": "Anurag Sharma",
+    "excerpt": "Next.js is a powerful React framework that makes it easy to build fast and scalable web apps. In this post, we’ll explore why Next.js is different from plain React, and how you can quickly get started.",
+    "content": "Next.js builds on top of React by adding features like file-based routing, server-side rendering, and API routes. This means you can create a full-stack application without leaving the React ecosystem. Unlike plain React, which only handles the frontend, Next.js also lets you handle data fetching, SEO optimization, and even backend logic in the same project.\n\nTo get started, install Next.js using 'npx create-next-app' and explore the default file structure. You'll notice that every file inside the \"pages\" directory automatically becomes a route — which is one of Next.js’s most powerful features."
+  },
+  {
+    "slug": "designing-for-the-web",
+    "title": "Designing for the Modern Web",
+    "date": "2025-07-18",
+    "author": "Saanvi Kapoor",
+    "excerpt": "Great design is more than just choosing colors and fonts. It’s about creating an experience that feels intuitive, accessible, and delightful. Here are some key design principles to keep in mind.",
+    "content": "Modern web design focuses heavily on user experience. That means your design should work equally well on desktops, tablets, and mobile devices. Responsive design techniques like flexible grids, relative units, and CSS media queries are essential tools in a designer’s toolkit.\n\nBeyond responsiveness, accessibility plays a huge role. Your website should be usable by people with different abilities. This includes providing alt text for images, ensuring sufficient color contrast, and making all interactive elements reachable via keyboard."
+  },
+  {
+    "slug": "the-future-of-ai",
+    "title": "The Future of AI in Everyday Life",
+    "date": "2025-09-05",
+    "author": "Prashant Verma",
+    "excerpt": "Artificial Intelligence is no longer a futuristic concept — it’s already a part of our daily lives. But what does the future hold? In this article, we explore where AI might take us in the next decade.",
+    "content": "AI already powers recommendation systems, voice assistants, and even traffic navigation apps. Over the next decade, we can expect AI to become even more integrated into our lives, from personalized education platforms to healthcare diagnostics that catch illnesses early.\n\nWhile the opportunities are exciting, the rise of AI also brings ethical challenges. Issues like data privacy, algorithmic bias, and job displacement must be addressed if we want to ensure AI benefits everyone."
+  },
+  {
+    "slug": "learning-to-code",
+    "title": "Why Everyone Should Learn to Code",
+    "date": "2025-06-22",
+    "author": "Sumit Chhetri",
+    "excerpt": "Coding is often seen as something only for techies. But learning to code can improve problem-solving skills, open career opportunities, and even help with everyday tasks.",
+    "content": "At its core, coding is about problem-solving. Even if you don’t plan to become a professional software developer, understanding how computers think can give you a big advantage in today’s digital world. It can help you automate repetitive tasks, create tools for your own projects, or just think more logically.\n\nThe best part is that learning to code has never been easier. With resources like freeCodeCamp, Codecademy, and countless YouTube tutorials, anyone can get started at their own pace."
+  }
+]
