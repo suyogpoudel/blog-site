@@ -20,6 +20,7 @@ const HomePage = () => {
               <Image
                 src={images[post.slug as ImageKey]}
                 alt={post.title}
+                placeholder="blur"
                 className="w-[320px] aspect-video shadow-lg dark:shadow-neutral-800/80 light:shadow-gray-500/50"
               />
               <div className="flex flex-col justify-between max-sm:gap-2">
