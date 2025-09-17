@@ -12,7 +12,7 @@ const NavBar = () => {
         <div className="flex items-center">
           <Link
             href="/"
-            className=" text-2xl dark:text-yellow-500 text-yellow-700"
+            className=" text-2xl dark:text-yellow-500 text-yellow-700 opacity-90"
           >
             blogs
           </Link>

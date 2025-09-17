@@ -41,7 +41,7 @@ export default function PostPage({ params }: PostPageProps) {
         />
       </div>
 
-      <div className="flex justify-between dark:text-yellow-500 text-yellow-700 mt-3">
+      <div className="flex justify-between dark:text-yellow-500 text-yellow-700 mt-3 opacity-90">
         <p>{post.author}</p>
         <p>{post.date}</p>
       </div>

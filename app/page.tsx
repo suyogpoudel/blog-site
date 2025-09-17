@@ -10,7 +10,9 @@ const HomePage = () => {
     <section>
       <header className="font-cormorant text-center font-light text-4xl">
         minimal{" "}
-        <span className="dark:text-yellow-500 text-yellow-700">blogs</span>{" "}
+        <span className="dark:text-yellow-500 text-yellow-700 opacity-90">
+          blogs
+        </span>{" "}
         website
       </header>
       <main>
