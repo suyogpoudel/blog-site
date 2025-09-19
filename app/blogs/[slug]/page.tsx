@@ -12,6 +12,17 @@ interface PostPageProps {
 
 type ImageKey = keyof typeof images;
 
+export async function generateMetadata({ params }: PostPageProps) {
+  const { slug } = params;
+
+  const post = posts.find((p) => p.slug === slug);
+
+  return {
+    title: `blogs. | ${post?.title}`,
+    description: post?.excerpt,
+  };
+}
+
 export default function PostPage({ params }: PostPageProps) {
   // 1. Get the slug from URL params
   const { slug } = params;

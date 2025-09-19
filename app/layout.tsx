@@ -15,7 +15,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "blogs | minimal blogs website",
+  title: "blogs. | minimal blogs website",
   description:
     "blogs. is a minimal blogs website built using Next.js and styled using TailwindCSS.",
 };
